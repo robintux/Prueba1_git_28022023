@@ -154,3 +154,7 @@ for x in range(width):
 #                    
 # Esto es un cambio que hicimos en la rama Alumno1
 #
+
+
+# Este segundo cambio lo deseamos hacer desde otra computadora y con otro usuario.
+# Lo unico que hemos hecho es clonar el repositorio y realiza algunos cambio al archivo.
